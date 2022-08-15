@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e018a471937ac34980510e06c9a1f36, type: 3}
+  m_Name: DataKiller
+  m_EditorClassIdentifier: 
+  life: 300
+  dano: 120
+  shield: 50
+  mana: 60
+  persona: {fileID: 6680142092061416045, guid: 9ee789cc2f4d5894599dd05d492844a7, type: 3}
