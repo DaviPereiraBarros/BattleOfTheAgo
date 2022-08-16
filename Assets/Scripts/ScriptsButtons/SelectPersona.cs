@@ -12,8 +12,8 @@ public class SelectPersona : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
     public TextMeshProUGUI txt;
     public GameObject[] character;
     public string texto;
-
     public static int numPlayer;
+    
     public void OnPointerEnter(PointerEventData eventData)
     {
         Persona.color = Color.green;
