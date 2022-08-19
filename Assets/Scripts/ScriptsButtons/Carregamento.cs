@@ -18,16 +18,16 @@ public class Carregamento : MonoBehaviour
     void Start()
     {   
        progresso = 0; 
-       StartCoroutine(TempoFixo (cenaACarregar));
+       StartCoroutine(Tempo(cenaACarregar));
         
         switch (tipoDeCarregamento)
         {
            case TipoCarreg.Carregament:
-           StartCoroutine(CenaDeCarregamento (cenaACarregar));
+           StartCoroutine(Cena(cenaACarregar));
            break;
            
            case TipoCarreg.TempoFixo:
-           StartCoroutine(TempoFixo (cenaACarregar));
+           StartCoroutine(Tempo(cenaACarregar));
            break;
         }
 
@@ -44,7 +44,7 @@ public class Carregamento : MonoBehaviour
         }
     }
 
-    IEnumerator CenaDeCarregamento(string cena)
+    IEnumerator Cena(string cena)
     {
         AsyncOperation carregamento = SceneManager.LoadSceneAsync(cena);
 
@@ -55,7 +55,7 @@ public class Carregamento : MonoBehaviour
         }
     }
 
-    IEnumerator TempoFixo(string cena)
+    IEnumerator Tempo(string cena)
     {
         yield return new WaitForSeconds(TempoFixoSeg);
         SceneManager.LoadScene(cena);
