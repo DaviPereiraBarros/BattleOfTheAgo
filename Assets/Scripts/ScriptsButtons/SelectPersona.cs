@@ -14,6 +14,9 @@ public class SelectPersona : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
     public string texto;
     public static int numPlayer;
     
+    void Start(){
+        txt.text = "SAMURAI";
+    }
     public void OnPointerEnter(PointerEventData eventData)
     {
         Persona.color = Color.green;
@@ -37,6 +40,7 @@ public class SelectPersona : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
         character[3].SetActive(false);
         character[4].SetActive(false);
         character[5].SetActive(false);
+        
        }
        
     }
@@ -53,6 +57,7 @@ public class SelectPersona : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
         character[3].SetActive(false);
         character[4].SetActive(false);
         character[5].SetActive(false);
+        
        }
     }
     public void Select3()
@@ -68,6 +73,7 @@ public class SelectPersona : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
         character[3].SetActive(false);
         character[4].SetActive(false);
         character[5].SetActive(false);
+        
        }
     }
     public void Select4()
@@ -83,6 +89,7 @@ public class SelectPersona : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
         character[2].SetActive(false);
         character[4].SetActive(false);
         character[5].SetActive(false);
+        
        }
     }
 
@@ -99,6 +106,7 @@ public class SelectPersona : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
         character[2].SetActive(false);
         character[3].SetActive(false);
         character[5].SetActive(false);
+        
        }
     }
 
@@ -115,6 +123,7 @@ public class SelectPersona : MonoBehaviour, IPointerEnterHandler, IPointerExitHa
         character[2].SetActive(false);
         character[3].SetActive(false);
         character[4].SetActive(false);
+        
        }
     }
 

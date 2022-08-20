@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: DataTank
   m_EditorClassIdentifier: 
   life: 600
+  speed: 0
+  price: 1000
   dano: 40
   shield: 150
   mana: 50

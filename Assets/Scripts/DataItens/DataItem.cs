@@ -5,11 +5,10 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "Data", menuName = "ScriptableObject/Item")]
 public class DataItem : ScriptableObject
 {
-    public float life;
-    public float speed;
-    public int dano;
-    public int shield;
-    public float mana;
-    public GameObject persona;
+    public float lifeItem;
+    public int priceItem;
+    public int danoItem;
+    public int shieldItem;
+    public float manaItem;
 
 }

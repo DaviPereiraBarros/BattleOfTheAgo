@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: DataKiller
   m_EditorClassIdentifier: 
   life: 300
+  speed: 0
+  price: 2500
   dano: 120
   shield: 50
   mana: 60

@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: DataFigther
   m_EditorClassIdentifier: 
   life: 350
+  speed: 0
+  price: 1200
   dano: 60
   shield: 120
   mana: 40

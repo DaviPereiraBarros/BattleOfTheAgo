@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: df562088035c1e74889efe4edda54b75, type: 3}
   m_Name: ArmaDiamante
   m_EditorClassIdentifier: 
-  life: 90
-  dano: 120
-  shield: 30
-  mana: 40
-  persona: {fileID: 0}
+  lifeItem: 50
+  priceItem: 2000
+  danoItem: 100
+  shieldItem: 30
+  manaItem: 0

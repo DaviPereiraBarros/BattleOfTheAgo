@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: DataKnight
   m_EditorClassIdentifier: 
   life: 350
+  speed: 0
+  price: 1500
   dano: 100
   shield: 80
   mana: 80
