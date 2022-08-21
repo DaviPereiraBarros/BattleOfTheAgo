@@ -27,5 +27,6 @@ public class ButtonItem_Character : MonoBehaviour
     public void Character(){
         canvaCharacter.SetActive(true);
         canvaInven.SetActive(false);
+        
     }
 }

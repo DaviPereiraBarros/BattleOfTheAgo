@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PotionLife
   m_EditorClassIdentifier: 
   lifeItem: 30
-  priceItem: 0
+  priceItem: 80
   danoItem: 0
   shieldItem: 0
   manaItem: 0

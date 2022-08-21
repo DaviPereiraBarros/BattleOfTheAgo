@@ -6,12 +6,33 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MenuPrincipal.unity
+    path: Assets/Scenes/Screens/TelaInicial.unity
+    guid: cf044997b04746045acee4e228468e78
+  - enabled: 1
+    path: Assets/Scenes/Screens/MenuPrincipal.unity
     guid: d767ee14ad455f4498382370e41e79f2
   - enabled: 1
-    path: Assets/Scenes/Selecao.unity
+    path: Assets/Scenes/Store/SceneStore.unity
     guid: e52fbd6b6df821741ba56485fc2dafce
   - enabled: 1
-    path: Assets/Scenes/Cena1.unity
+    path: Assets/Scenes/Store/Inventory.unity
+    guid: 74eb116d39909614383ce75b466cbd7b
+  - enabled: 1
+    path: Assets/Scenes/Fases/Challenge.unity
+    guid: 16e6ccfb85ba523449edf98c1e8ac627
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase1.unity
+    guid: 5e0537cd5bc2e2145acd5b3f8f20391c
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase2.unity
+    guid: f4927f63059aeb14a99ead1d7afda94d
+  - enabled: 1
+    path: Assets/Scenes/Fases/Fase_Final.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Fases/SceneTransition.unity
+    guid: e1329ee6c1b787a4c9a8174c197409db
+  - enabled: 1
+    path: Assets/Scenes/Fases/SceneFases.unity
+    guid: d965be19268fd3946aa04ee9ea09bde3
   m_configObjects: {}

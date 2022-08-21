@@ -19,7 +19,6 @@ public class VisibleData : MonoBehaviour
         }
     }
 
-    
     void Update()
     {
         if(SelectPersona.numPlayer == 1){
@@ -66,8 +65,4 @@ public class VisibleData : MonoBehaviour
         }
     }
 
-    public static void DataCharacter()
-    {
-
-    }
 }
