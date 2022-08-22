@@ -7,6 +7,7 @@ public class ButtonFase2 : MonoBehaviour
 {
      public void Fase2()
     {
+         ManagerScene.idScene = 2;
         SceneManager.LoadScene("SceneTransition");
     }
 }

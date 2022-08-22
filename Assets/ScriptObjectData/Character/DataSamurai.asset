@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e018a471937ac34980510e06c9a1f36, type: 3}
   m_Name: DataSamurai
   m_EditorClassIdentifier: 
-  life: 250
+  life: 120
+  speed: 0
+  price: 0
   dano: 80
   shield: 50
   mana: 40

@@ -6,34 +6,34 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
-      value: 5207515006560f59555b0e2345710c44424e1d2e2a717e337c2c4532e1b6666f
+      value: 005204575d040d5a5f5e5a7b407b06444e151e737d2e2368797c4e61b5b5356a
       flags: 0
     RecentlyUsedSceneGuid-1:
-      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      value: 5207515006560f59555b0e2345710c44424e1d2e2a717e337c2c4532e1b6666f
       flags: 0
     RecentlyUsedSceneGuid-2:
-      value: 5654045356020a5f580c0f7015710e4443161b2e792a7536752f4f63b1b9653b
-      flags: 0
-    RecentlyUsedSceneGuid-3:
       value: 05050d5452535f085d5b552315210e44174e412f2d2c77347a281b37e3b9603c
       flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      flags: 0
     RecentlyUsedSceneGuid-4:
-      value: 0604060007515f595b0a0a7a427208444715197f7a7c7e652b2a4f37e3e6373d
-      flags: 0
-    RecentlyUsedSceneGuid-5:
-      value: 5405510454045f5f5e57557249750e44454f4b29297f7332797f4b30e0e4633a
-      flags: 0
-    RecentlyUsedSceneGuid-6:
-      value: 00570452510c500c0f5e587544750f4443161b2f297c23627f714965bae56360
-      flags: 0
-    RecentlyUsedSceneGuid-7:
-      value: 070602510050580f0c0a587745250b444f4f4b727e7b7160287d4c36b5b9326a
-      flags: 0
-    RecentlyUsedSceneGuid-8:
       value: 07080253075058025f585424147006444016197a782d236928284d6ae0e4316b
       flags: 0
-    RecentlyUsedSceneGuid-9:
+    RecentlyUsedSceneGuid-5:
       value: 060007545c500c0d0e5f0e7548745e44154e19727d7f72337c704a67b2b9303a
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 070602510050580f0c0a587745250b444f4f4b727e7b7160287d4c36b5b9326a
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 5654045356020a5f580c0f7015710e4443161b2e792a7536752f4f63b1b9653b
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 5405510454045f5f5e57557249750e44454f4b29297f7332797f4b30e0e4633a
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 0604060007515f595b0a0a7a427208444715197f7a7c7e652b2a4f37e3e6373d
       flags: 0
     UnityRemoteCompression:
       value: 29617121

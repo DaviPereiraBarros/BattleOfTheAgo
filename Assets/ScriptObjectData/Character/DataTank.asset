@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e018a471937ac34980510e06c9a1f36, type: 3}
   m_Name: DataTank
   m_EditorClassIdentifier: 
-  life: 600
+  life: 200
   speed: 0
   price: 1000
   dano: 40

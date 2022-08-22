@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class ManagerCoin : MonoBehaviour
 {
-    public static int scoreGeral = 500;
+    public static int scoreGeral = 1500;
     public Text txtScore;
     
     void Start()
