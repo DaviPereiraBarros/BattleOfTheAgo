@@ -40,18 +40,19 @@ public class HUD : MonoBehaviour
   
     }
 
-    void OnCollisionEnter2D(Collision2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
          if (collision.gameObject.CompareTag("Inimigo"))
         {
-            life -= 4;
+            Debug.Log("Inimigo bateu");
+            /*life -= 4;
             lifeBar.fillAmount = life/100;
 
             if(life <= 0)
             {
                 GameOver.SetActive(true);
                 Canva.SetActive(false);
-            }
+            }*/
         } 
     } 
 

@@ -63,16 +63,17 @@ public class Ai_Enemy : MonoBehaviour
         }
     }
 
-        void OnCollisionEnter2D(Collision2D collision)
+        void OnTriggerEnter2D(Collider2D collision)
       {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Attack"))
         {
-            lifeEnemy -= 10;
+            Debug.Log("Ativo");
+            /*lifeEnemy -= 10;
 
             if(lifeEnemy <= 0)
             {
                 Destroy(gameObject);   
-            }
+            }*/
         } 
         
       }

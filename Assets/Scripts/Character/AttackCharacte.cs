@@ -8,7 +8,7 @@ public class AttackCharacte : MonoBehaviour
    public BoxCollider2D boxCollider2D;
     void Start()
     {
-    
+        boxCollider2D.enabled = true;
     }
 
     void Update()
