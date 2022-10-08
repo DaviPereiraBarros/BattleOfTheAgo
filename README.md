@@ -1,13 +1,13 @@
 # BattleOfTheAgo
 
 ## Gênero
-Luta e Ação
+<strong>Luta e Ação</strong>
 
 ## Ferramentas
-C# e Unity
+<strong>C# e Unity</strong>
 
 ## Sobre
-Um jogo de luta através de histórias emocionantes
+<strong>Um jogo de luta através de histórias emocionantes</strong>
 
 
 
